@@ -1,0 +1,27 @@
+h1{
+    color: black;
+}
+.Links{  
+    color: black;
+    background-color:rgba(255, 100, 200, 0.3);
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: large;
+    margin-right: 40px;
+}
+.Links:hover{
+        background-color:rgba(255, 100, 200, 0.10) !important;
+    
+
+}
+.dias{
+    color: black;
+    font-size: larger;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin-right:10px;
+
+
+}
